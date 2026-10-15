@@ -1,0 +1,26 @@
+{
+  "name": "address-book-api",
+  "version": "1.0.0",
+  "description": "SE4458 Assignment 2 - Address Book REST API with Swagger",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesertas1/address-book-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/enesertas1/address-book-api/issues"
+  },
+  "homepage": "https://github.com/enesertas1/address-book-api#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
