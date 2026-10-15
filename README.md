@@ -42,7 +42,7 @@ Node.js, Express, swagger-ui-express (OpenAPI 3.0), in-memory storage, deployed 
 ## Run Locally
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/address-book-api.git
+git clone https://github.com/enesertas1/address-book-api.git
 cd address-book-api
 npm install
 npm start
