@@ -7,7 +7,7 @@ A simple REST API to create, read, update, delete, search, sort and favorite con
 ## Links
 
 - **Source code:** https://github.com/enesertas1/address-book-api
-- **Live Swagger UI:** https://address-book-api-xxxx.vercel.app/api-docs
+- **Live Swagger UI:** https://address-book-api-three.vercel.app/api-docs/
 
 ## Tech Stack
 
